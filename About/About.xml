@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Vanilla Expanded: Hero Backgrounds</name>
+	<author>ferny</author>
+	<packageId>ferny.vanillaexpandedherobackgrounds</packageId>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>vanillaexpanded.backgrounds</packageId>
+			<displayName>Vanilla Backgrounds Expanded</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2775017012</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<description>Adds many of Oskar Potocki's hero characters to the backgrounds pool.</description>
+	<loadAfter>
+		<li>Ludeon.Rimworld</li>
+		<li>Ludeon.Rimworld.Royalty</li>
+		<li>Ludeon.Rimworld.Ideology</li>
+		<li>Ludeon.Rimworld.Biotech</li>
+		<li>Ludeon.Rimworld.Anomaly</li>
+		<li>vanillaexpanded.backgrounds</li>
+	</loadAfter>
+</ModMetaData>

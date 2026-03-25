@@ -1,0 +1,8 @@
+<loadFolders>
+  <v1.6>
+    <li>/</li>
+
+    <li IfModActive="vanillaracesexpanded.phytokin">Mods and Shit/Phytokin</li>
+
+  </v1.6>
+</loadFolders>

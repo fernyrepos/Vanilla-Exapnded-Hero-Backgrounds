@@ -22,6 +22,8 @@
 		<li>Ludeon.Rimworld.Ideology</li>
 		<li>Ludeon.Rimworld.Biotech</li>
 		<li>Ludeon.Rimworld.Anomaly</li>
+		<li>Ludeon.Rimworld.Odyssey</li>
 		<li>vanillaexpanded.backgrounds</li>
+		<li>vanillaracesexpanded.phytokin</li>
 	</loadAfter>
 </ModMetaData>

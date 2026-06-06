@@ -3,6 +3,7 @@
     <li>/</li>
 
     <li IfModActive="vanillaracesexpanded.phytokin">Mods and Shit/Phytokin</li>
+    <li IfModActive="vanillaquestsexpanded.dronefactory">Mods and Shit/VQE Drone Factory</li>
 
   </v1.6>
 </loadFolders>
